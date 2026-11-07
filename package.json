@@ -1,0 +1,11 @@
+{
+  "name": "quran-ts-ayah-abjad-checksum",
+  "version": "1.0.0",
+  "description": "Quranic Ayah Numerical Checksum & Abjad Gematria Verifier (مدقق الإحصاء العددي وحساب الجُمّل للآيات)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
